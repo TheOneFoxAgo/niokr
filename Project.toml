@@ -1,0 +1,12 @@
+name = "Niokr"
+uuid = "a8b8b987-7223-4da6-8851-b7d858811eac"
+version = "0.1.0"
+authors = ["TheOneFoxAgo <nikitad2005@gmail.com>"]
+
+[deps]
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
+
+[compat]
+DelimitedFiles = "1.9.1"
+TOML = "1.0.3"
